@@ -12,3 +12,6 @@ This project contains a website for the Department of Computer Science.
 - HTML
 - Git
 - GitHub
+## Project Status
+
+The department website repository is maintained using Git version control.
