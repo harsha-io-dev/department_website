@@ -8,3 +8,7 @@ This project contains a website for the Department of Computer Science.
 - Faculty members
 - Courses offered
 - About the department
+## Technologies Used
+- HTML
+- Git
+- GitHub
